@@ -1,0 +1,1 @@
+// See record package to get a proper usage example.
